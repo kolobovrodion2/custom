@@ -1,0 +1,14 @@
+            Circle()
+                .fill(.blue)
+        }
+        .witchCustomButtonStyle(pressedScale: 1.5)
+    }
+}
+
+struct UsingCustomButtonStyleView_Previews: PreviewProvider {
+    static var previews: some View {
+        UsingCustomButtonStyleView()
+    }
+}
+
+
